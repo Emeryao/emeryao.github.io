@@ -1,2 +1,1 @@
-# emeryao.github.io
-emeryao.github.io
+# Hi! I'm Emery, a developer. :smile:
